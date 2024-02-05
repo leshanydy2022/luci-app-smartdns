@@ -1,5 +1,5 @@
 # 
-# Copyright (C) 2018-2023 Ruilin Peng (Nick) <pymumu@gmail.com>.
+# Copyright (C) 2018-2024 Ruilin Peng (Nick) <pymumu@gmail.com>.
 #
 # smartdns is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -18,8 +18,8 @@ include $(TOPDIR)/rules.mk
 
 PKG_LICENSE:=GPL-3.0-or-later
 PKG_MAINTAINER:=Nick Peng <pymumu@gmail.com>
-PKG_VERSION:=1.2023.44
-PKG_RELEASE:=20240117
+PKG_VERSION:=1.2023.43
+PKG_RELEASE:=20240202
 
 LUCI_TITLE:=LuCI for smartdns
 LUCI_DESCRIPTION:=Provides Luci for smartdns
